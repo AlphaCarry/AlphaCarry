@@ -26,3 +26,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alphacarry&show_icons=true&locale=en" alt="alphacarry" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alphacarry&theme=dark" alt="alphacarry" /></p>
+
+
+![snake gif](https://github.com/AlphaCarry/AlphaCarry/blob/output/github-contribution-grid-snake.gif)
