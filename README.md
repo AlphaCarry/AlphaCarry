@@ -1,4 +1,3 @@
-![snake gif](https://github.com/AlphaCarry/AlphaCarry/blob/output/github-contribution-grid-snake.gif)
 <h1 align="center">Hi 👋, I'm AlphaCarry</h1>
 <h3 align="center">I'm working on data science and artificial intelligence, and i'm developing myself in a few other areas</h3>
 
@@ -28,4 +27,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alphacarry&theme=dark" alt="alphacarry" /></p>
 
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
+</picture>
