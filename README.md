@@ -1,3 +1,5 @@
+[![MasterHead](https://img.freepik.com/free-vector/big-data-bw-wave-visualization_1217-3377.jpg?w=1380&t=st=1703536939~exp=1703537539~hmac=d815179145b57fc4e3e5c5f5529aed84a256cc57f9278d4cf656000037dc20fb)
+
 <h1 align="center">Hi 👋, I'm AlphaCarry</h1>
 <h3 align="center">I'm working on data science and artificial intelligence, and i'm developing myself in a few other areas</h3>
 
